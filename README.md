@@ -1,9 +1,9 @@
 # SQL-Challenge
 ## Challenge Instructions
-This project included Data Engineering and Data Analysis to create a SQL database of employees at Pewlett Hackard from the 1980s and 1990s. Using the six CSV files that held the information of each employee, SQL tables were designed and data was imported into the SQL database.
+This project included Data Engineering and Data Analysis creating SQL database of employees at Pewlett Hackard from the 1980s and 1990s. Using the six CSV files that held the information of each employee, SQL tables were designed and data was imported into the SQL database.
 
 ## Data Modeling and Engineering
-Using QuickDBD, a ERD was sketched out and used to create table schema for the six CSV files. Specific data types, primary keys, and foreign keys were defined. Tables were created in the correct order to handle the foreign keys. The data from each CSV file was then imported into the corresponding SQL table.
+Using QuickDBD, a ERD was sketched out and used to create table schema for the SQL Database. Specific data types, primary keys, and foreign keys were defined. Tables were created in the correct order to handle the foreign keys. The data from each CSV file was then imported into the corresponding SQL table.
 
 ## Data Analysis
 Once the database was created with tables of the imported data these steps were performed:
